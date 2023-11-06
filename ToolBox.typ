@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: ToolBox
+(*
  * File: ToolBox.typ
- * Author: Josh
- * Created: October 07, 2013
- ********************************************************************
- * Data types of library ToolBox
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of ToolBox, licensed under the MIT License.
+ *
+ *)
 
 TYPE
 	Process_Timer_Internal : 	STRUCT 

@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: ToolBox
+(*
  * File: ToolBox.fun
- * Author: Josh
- * Created: October 07, 2013
- ********************************************************************
- * Functions and function blocks of library ToolBox
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of ToolBox, licensed under the MIT License.
+ *
+ *)
 
 FUNCTION_BLOCK ProcessTimer
 	VAR_INPUT

@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: AppLib
+(*
  * File: ProcessTimer.st
- * Author: Josh
- * Created: August 03, 2012
- ********************************************************************
- * Implementation of library AppLib
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of ToolBox, licensed under the MIT License.
+ *
+ *)
 
 (*  *)
 FUNCTION_BLOCK ProcessTimer
