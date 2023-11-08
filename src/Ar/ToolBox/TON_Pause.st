@@ -6,6 +6,7 @@
  * This file is part of ToolBox, licensed under the MIT License.
  *
  *)
+ 
 (* TON functionality with pausing and an output percentage *)
 FUNCTION_BLOCK TON_Pause
 	IF(IN) THEN

@@ -6,6 +6,7 @@
  * This file is part of ToolBox, licensed under the MIT License.
  *
  *)
+ 
 (* simplify IF statements: if value is within a percentage window *)
 FUNCTION WithinPercent
 	IF SetValue <> 0 THEN
