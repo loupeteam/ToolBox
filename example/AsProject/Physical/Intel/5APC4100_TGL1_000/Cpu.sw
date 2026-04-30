@@ -56,5 +56,6 @@
     <LibraryObject Name="MTBasics" Source="Libraries._AS.MTBasics.lby" Memory="UserROM" Language="binary" Debugging="true" />
     <LibraryObject Name="LoopConR" Source="Libraries._AS.LoopConR.lby" Memory="UserROM" Language="Binary" Debugging="true" />
     <LibraryObject Name="MTLookUp" Source="Libraries._AS.MTLookUp.lby" Memory="UserROM" Language="binary" Debugging="true" />
+    <LibraryObject Name="ToolBox" Source="Libraries.Loupe.ToolBox.lby" Memory="UserROM" Language="IEC" Debugging="true" />
   </Libraries>
 </SwConfiguration>
